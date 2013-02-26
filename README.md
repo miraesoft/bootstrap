@@ -115,3 +115,6 @@ distributed under the License is distributed on an "AS IS" BASIS,
 WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
+
+미래소프트에 맞게 일부 수정 진행하고 있습니다.
+주로 한글관련 이슈가 많습니다.
